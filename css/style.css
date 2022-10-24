@@ -1,0 +1,19 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+#preview-container {
+ position: relative;
+}
+
+.frame {
+ position: absolute;
+ top: 0;
+ left: 0;
+ display: none;
+}
+
+.current {
+ display: block;
+}
